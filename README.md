@@ -83,5 +83,5 @@ Contributions are welcome! If you have ideas for new features, improvements, or 
 <p align="center">
   Built with ❤️ using C and Winsock2 | Open Source Software
   <br>
-  &#169; 2024 0xOposec_HTTP Project
+  &#169; 2026 0xOposec_HTTP Project
 </p>
